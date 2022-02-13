@@ -1,0 +1,22 @@
+{
+  "name": "openweather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.14.178",
+    "express": "^4.17.2",
+    "lodash": "^4.17.21",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.17",
+    "nodemon": "^2.0.15"
+  }
+}
